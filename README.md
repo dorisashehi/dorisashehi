@@ -3,7 +3,6 @@
 I am a **full-stack web developer** passionate about building high-quality applications that solve real-world problems.  
 With hands-on experience in **React.js, Node.js, Express.js, PHP, and Laravel**, I create scalable and efficient solutions.
 
----
 
 ## 🚀 About Me
 
@@ -13,7 +12,6 @@ With hands-on experience in **React.js, Node.js, Express.js, PHP, and Laravel**,
 - 📍 Based in **New Jersey, USA**
 - 🔍 Actively seeking **full-time opportunities in web development**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +26,6 @@ With hands-on experience in **React.js, Node.js, Express.js, PHP, and Laravel**,
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
----
 
 ## 🔥 Featured Projects
 
@@ -38,13 +35,11 @@ With hands-on experience in **React.js, Node.js, Express.js, PHP, and Laravel**,
 📝 [**Resume Maker**](#) *(React.js)*
 - Enables users to create, preview, and download resumes  
 
----
 
 ## 🎓 Certifications
 - **Artificial Intelligence in Business** – Harvard University  
 - **Advanced Web Development** – CodePath  
 
----
 
 ## 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorisa-shehi/)
