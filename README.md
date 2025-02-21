@@ -29,7 +29,7 @@ With hands-on experience in **React.js, Node.js, Express.js, PHP, and Laravel**,
 
 ## 🔥 Featured Projects
 
-🚀 [**Online Store**](#) *(React.js, Node.js)*
+🚀 [**Online Store**](#) *(React.js)*
 - E-commerce demo  
 
 📝 [**Resume Maker**](#) *(React.js)*
