@@ -4,11 +4,12 @@ I am a **full-stack web developer** passionate about building high-quality appli
 
 🚀 **About Me**  
 - 🎓 B.A. in Computer Science at **Hunter College, CUNY** 
-- 💻 Experience with **React.js, Laravel, Node.js, PHP, PostgreSQL, and MongoDB**  
+- 💻 Experience with **React.js, Node.js, Express.js, Laravel, PHP, PostgreSQL, MySQL, and MongoDB**  
 - 🌍 Passionate about **AI integration, Web Development**  
 - 📍 Based in **New Jersey, USA** 
 
 ### 🛠️ Tech Stack:
+
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -28,9 +29,6 @@ I am a **full-stack web developer** passionate about building high-quality appli
 - 📄 **[Resume Maker](https://resumemaker24.netlify.app/)** (React.js)  
   - Enables users to create, preview, and download resumes
 
-- 🌍 **[Portfolio Website](https://dorisashehi.netlify.app/)**  
-  - Showcases my work, skills, and experience
-
 ### 📜 Certifications:
 - **Artificial Intelligence in Business** – Harvard University  
 - **Advanced Web Development** – CodePath  
@@ -39,5 +37,4 @@ I am a **full-stack web developer** passionate about building high-quality appli
 📫 **Let's Connect!**  
 🔗 [LinkedIn](https://www.linkedin.com/in/dorisa-shehi) | 📧 doris.shehi2@gmail.com  
 
-🚀 *"Turning ideas into reality through code!"*
-
+🚀 *"Let's build something amazing together!"*
