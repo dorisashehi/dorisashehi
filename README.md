@@ -4,7 +4,7 @@
 🚀 **About Me**  
 - 🎓 B.A. in Computer Science at **Hunter College, CUNY** 
 - 💻 Experience with **React.js, Laravel, Node.js, PHP, PostgreSQL, and MongoDB**  
-- 🌍 Passionate about **AI integration, web development, and problem-solving**  
+- 🌍 Passionate about **AI integration, Web Development**  
 - 📍 Based in **New Jersey, USA** 
 
 ### 🛠️ Tech Stack:
