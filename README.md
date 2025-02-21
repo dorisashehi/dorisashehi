@@ -2,7 +2,7 @@
 
 
 🚀 **About Me**  
-- 🎓 B.A. in Computer Science at **Hunter College, CUNY** (Graduating Dec 2025)  
+- 🎓 B.A. in Computer Science at **Hunter College, CUNY** 
 - 💻 Experience with **React.js, Laravel, Node.js, PHP, PostgreSQL, and MongoDB**  
 - 🌍 Passionate about **AI integration, web development, and problem-solving**  
 - 📍 Based in **New Jersey, USA** 
