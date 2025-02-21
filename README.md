@@ -16,10 +16,10 @@
 
 ### 📌 Projects:
 - 🛒 **[Online Store](https://online-store24.netlify.app/)** (React.js, Node.js)  
-  - E-commerce demo with **product filtering and intuitive navigation**  
+  - E-commerce demo
 
 - 📄 **[Resume Maker](https://resumemaker24.netlify.app/)** (React.js)  
-  - Enables users to create, preview, and download resumes **instantly**  
+  - Enables users to create, preview, and download resumes
 
 - 🌍 **[Portfolio Website](https://dorisashehi.netlify.app/)**  
   - Showcases my work, skills, and experience
