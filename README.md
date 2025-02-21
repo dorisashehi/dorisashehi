@@ -30,4 +30,7 @@
 
 
 📫 **Let's Connect!**  
-🔗 [LinkedIn](https://www.linkedin.com/in/dorisa-shehi)| 📧 doris.shehi2@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/dorisa-shehi) | 📧 doris.shehi2@gmail.com  
+
+🚀 *"Turning ideas into reality through code!"*
+
