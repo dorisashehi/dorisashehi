@@ -28,7 +28,7 @@ With hands-on experience in **React.js, Node.js, Express.js, PHP, and Laravel**,
 
 ## 🔥 Featured Projects
 
-🚀 [**e-tracker**](https://youtu.be/ZwJITG4FE08](https://github.com/dorisashehi/e-tracker)) *(React.js, Node.js, MongoDB, Mongoose, Css, PlaidAPI)*
+🚀 [**e-tracker**](https://github.com/dorisashehi/e-tracker) *(React.js, Node.js, MongoDB, Mongoose, Css, PlaidAPI)*
 - Empowered users to improve financial habits by enabling budget creation, category-based transaction tracking, and real-time spending insights, helping reduce overspending by up to 30%.
   
 🚀 [**Online Store**](https://online-store24.netlify.app/) *(React.js)*
