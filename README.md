@@ -9,7 +9,6 @@ With hands-on experience in **React.js, Node.js, Express.js, PHP, and Laravel**,
 - 🎓 **B.A. in Computer Science** at **Hunter College, CUNY**
 - 💻 Experienced in **React.js, Node.js, Express.js, Laravel, PHP, PostgreSQL, MySQL, MongoDB**
 - 🌐 Passionate about **AI integration & Web Development**
-- 📍 Based in **New Jersey, USA**
 - 🔍 Actively seeking **full-time opportunities in web development**
 
 
