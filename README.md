@@ -28,11 +28,14 @@ With hands-on experience in **React.js, Node.js, Express.js, PHP, and Laravel**,
 
 ## 🔥 Featured Projects
 
+🚀 [**e-tracker**](#) *(React.js, Node.js, MongoDB, Mongoose, Css)*
+- Empowered users to improve financial habits by enabling budget creation, category-based transaction tracking, and real-time spending insights, helping reduce overspending by up to 30%.
+  
 🚀 [**Online Store**](#) *(React.js)*
-- E-commerce demo  
+- Developed the frontend of an e-commerce demo site using React.js and TailwindCSS, reducing user effort by 25% with dynamic filtering, intuitive navigation, and responsive design.
 
 📝 [**Resume Maker**](#) *(React.js)*
-- Enables users to create, preview, and download resumes  
+- Built a resume platform with React.js, enabling users to create, preview, and download resumes instantly while following resume standards for text size, number of pages, and formatting, reducing resume creation time by 50%.  
 
 
 ## 🎓 Certifications
