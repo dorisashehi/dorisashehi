@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Dorisa Shehi!
 
 I am a **full-stack web developer** passionate about building high-quality applications that solve real-world problems.  
-With hands-on experience in **React.js, Node.js, Express.js, PHP, and Laravel**, I create scalable and efficient solutions.
+With hands-on experience in **React.js, Node.js, Express.js, Python, PHP, and Laravel**, I create scalable and efficient solutions.
 
 
 ## 🚀 About Me
