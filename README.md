@@ -1,15 +1,15 @@
 # Hi there 👋, I'm Dorisa Shehi!
 
 I am a **full-stack web developer** passionate about building high-quality applications that solve real-world problems.  
-With hands-on experience in **React.js, Node.js, Express.js, Python, PHP, and Laravel**, I create scalable and efficient solutions.
+With hands-on experience in **Python, JavaScript, React.js, Node.js, Express.js, AI/ML**, I create scalable and efficient solutions.
 
 
 ## 🚀 About Me
 
 - 🎓 **B.A. in Computer Science** at **Hunter College, CUNY**
-- 💻 Experienced in **React.js, Node.js, Express.js, Laravel, PHP, PostgreSQL, MySQL, MongoDB**
-- 🌐 Passionate about **AI integration & Web Development**
-- 🔍 Actively seeking **full-time opportunities in web development**
+- 💻 Experienced in **Python, React.js, Node.js, Express.js, PostgreSQL, MySQL, MongoDB**
+- 🌐 Passionate about **AI integration & Software Engineering**
+- 🔍 Actively seeking **full-time opportunities in SWE, AI/ML**
 
 
 ## 🛠️ Tech Stack
@@ -28,12 +28,15 @@ With hands-on experience in **React.js, Node.js, Express.js, Python, PHP, and La
 
 ## 🔥 Featured Projects
 
+🚀 [**Google Calendar MCP Server​**](https://github.com/dorisashehi/google_calendar) *(Python, MCP, Claude, Google Calendar)*
+- Developed a Model Context Protocol (MCP) server in Python that integrates with Google Calendar to allow AI agents to
+auto-schedule, list, update, and delete meetings from natural language commands, reducing scheduling overhead by 80%.
+
+🚀 [**Contextual Multi-Document Question Answering (GenAI)​**](https://github.com/dorisashehi/pdf-chatbot) *(LangChain, Steamlit, OpenAI embeddings, gpt-3.5-turbo, and FAISS)*
+- Built a multi-document question-answering system(LangChain, Steamlit, OpenAI embeddings, gpt-3.5-turbo, and FAISS), enabling natural language queries across multiple documents with 0.9s retrieval time and 93% accuracy.
+
 🚀 [**e-tracker**](https://github.com/dorisashehi/e-tracker) *(React.js, Node.js, MongoDB, Mongoose, Css, PlaidAPI)*
 - Developed an expense tracking platform with React/Node.js, improving user budget awareness by 60%.
-
-  
-🚀 [**International Student Assistant**](https://github.com/dorisashehi/cuny_intl) *(React.js, Node.js, OpenAI)*
-- Developed a chatbot using React.js, Node.js, and Tailwind, helping international students with CUNY admissions, reducing advisor inquiries by 70%..
 
 📝 [**ML Cancer Classification**](https://github.com/dorisashehi/ML_cancer-diagnoses) *(Python, Scikit-learn)*
 - Built a Machine learning model with Python/scikit-learn for breast cancer classification based on medical features, achieving 97% accuracy.  
