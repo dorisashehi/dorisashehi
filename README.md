@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Dorisa Shehi!
 
-I am a **full-stack web developer** passionate about building high-quality applications that solve real-world problems.  
+I am a **Full-Stack Software Developer** passionate about building high-quality applications that solve real-world problems.  
 With hands-on experience in **Python, JavaScript, React.js, Node.js, Express.js, AI/ML**, I create scalable and efficient solutions.
 
 
