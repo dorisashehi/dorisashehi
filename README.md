@@ -8,8 +8,8 @@ With hands-on experience in **Python, JavaScript, React.js, Node.js, Express.js,
 
 - 🎓 **B.A. in Computer Science** at **Hunter College, CUNY**
 - 💻 Experienced in **Python, React.js, Node.js, Express.js, PostgreSQL, MySQL, MongoDB**
-- 🌐 Passionate about **AI integration & Software Engineering**
-- 🔍 Actively seeking **full-time opportunities in SWE, AI/ML**
+- 🌐 Passionate about **AI Automations & Software Engineering**
+- 🔍 Actively seeking **opportunities in SWE, AI/ML**
 
 
 ## 🛠️ Tech Stack
