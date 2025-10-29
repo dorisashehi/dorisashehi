@@ -1,15 +1,15 @@
 # Hi there 👋, I'm Dorisa Shehi!
 
-I am a **Full-Stack Software Developer** passionate about building high-quality applications that solve real-world problems.  
-With hands-on experience in **Python, JavaScript, React.js, Node.js, Express.js, AI/ML**, I create scalable and efficient solutions.
+I am a **Software Engineer** passionate about building high-quality applications that solve real-world problems.  
+With hands-on experience in **Python, AI/ML, GenAI, JavaScript, React.js, Node.js, Express.js**, I create scalable and efficient solutions.
 
 
 ## 🚀 About Me
 
 - 🎓 **B.A. in Computer Science** at **Hunter College, CUNY**
-- 💻 Experienced in **Python, React.js, Node.js, Express.js, PostgreSQL, MySQL, MongoDB**
-- 🌐 Passionate about **AI Automations & Software Engineering**
-- 🔍 Actively seeking **opportunities in SWE, AI/ML**
+- 💻 Experienced in **Python, AI/ML, GenAI, React.js, Node.js, Express.js, PostgreSQL, MySQL, MongoDB**
+- 🌐 Passionate about **AI & Software Engineering**
+- 🔍 Actively seeking **opportunities in SWE, AI/ML, Data Science**
 
 
 ## 🛠️ Tech Stack
@@ -33,7 +33,7 @@ With hands-on experience in **Python, JavaScript, React.js, Node.js, Express.js,
 - Developed a Model Context Protocol (MCP) server in Python that integrates with Google Calendar to allow AI agents to
 auto-schedule, list, update, and delete meetings from natural language commands, reducing scheduling overhead by 80%.
 
-🚀 [**Contextual Multi-Document Question Answering (GenAI)​**](https://github.com/dorisashehi/pdf-chatbot) *(LangChain, Steamlit, OpenAI embeddings, gpt-3.5-turbo, and FAISS)*
+🚀 [**Contextual Multi-Document Question Answering (GenAI)​**](https://github.com/dorisashehi/pdf-chatbot) *(Python, LangChain, Steamlit, OpenAI embeddings, gpt-3.5-turbo, and FAISS)*
 - Built a multi-document question-answering system(LangChain, Steamlit, OpenAI embeddings, gpt-3.5-turbo, and FAISS), enabling natural language queries across multiple documents with 0.9s retrieval time and 93% accuracy.
 
 🚀 [**e-tracker**](https://github.com/dorisashehi/e-tracker) *(React.js, Node.js, MongoDB, Mongoose, Css, PlaidAPI)*
