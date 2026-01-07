@@ -27,21 +27,23 @@ I’m a **software engineer** passionate about building scalable **full-stack ap
 
 ## 🔥 Featured Projects
 
-🚀 [**404ella.ai​**]([https://github.com/dorisashehi/google_calendar](https://github.com/dorisashehi/career)) *(React, Next.js, Python, FastAPI, PostgreSQL, Langchain, Tailwind CSS)*
+🚀 [**404ella.ai​**](https://github.com/dorisashehi/career) *(React, Next.js, Python, FastAPI, PostgreSQL, Langchain, Tailwind CSS)*
 - Built a RAG-based AI career assistant using Reddit career data
 - Implemented semantic search with HuggingFace embeddings + pgvector
-📽️ **Video Demo:** [https://youtu.be/your-link-here](https://www.youtube.com/watch?v=zPeHG1xhz14&feature=youtu.be)
+- 📽️ **Video Demo:** [https://youtu.be/your-link-here](https://www.youtube.com/watch?v=zPeHG1xhz14&feature=youtu.be)
 
-![404ella Demo]([./assets/404ella-demo.gif](https://youtu.be/your-link-here](https://www.youtube.com/watch?v=zPeHG1xhz14&feature=youtu.be))
+🚀 [**Globe-al Research​**]([[https://github.com/dorisashehi/pdf-chatbot](https://www.youtube.com/embed/bjQb1xpxX7s?autoplay=1&mute=1)](https://github.com/dorisashehi/research)) *(React, Python, TypeScript, FastAPI, Next.js, REST API)*
+- Built a full-stack MVP visualizing global research trends across 100+ countries.
+- Integrated OpenAlex API with an interactive 3D globe.
+- Automated data collection into structured datasets for analysis.
+- 📽️ **Video Demo:** [[https://youtu.be/your-link-here](https://www.youtube.com/watch?v=zPeHG1xhz14&feature=youtu.be](https://www.youtube.com/embed/bjQb1xpxX7s?autoplay=1&mute=1))
 
-🚀 [**Contextual Multi-Document Question Answering (GenAI)​**](https://github.com/dorisashehi/pdf-chatbot) *(Python, LangChain, Steamlit, OpenAI embeddings, gpt-3.5-turbo, and FAISS)*
-- Built a multi-document question-answering system(LangChain, Steamlit, OpenAI embeddings, gpt-3.5-turbo, and FAISS), enabling natural language queries across multiple documents with 0.9s retrieval time and 93% accuracy.
-
-🚀 [**e-tracker**](https://github.com/dorisashehi/e-tracker) *(React.js, Node.js, MongoDB, Mongoose, Css, PlaidAPI)*
+🚀 [**e-tracker**]([https://github.com/dorisashehi/e-tracker](https://github.com/dorisashehi/e-tracker)) *(React.js, Node.js, MongoDB, Mongoose, Css, PlaidAPI)*
 - Developed an expense tracking platform with React/Node.js, improving user budget awareness by 60%.
 
-📝 [**ML Cancer Classification**](https://github.com/dorisashehi/ML_cancer-diagnoses) *(Python, Scikit-learn)*
-- Built a Machine learning model with Python/scikit-learn for breast cancer classification based on medical features, achieving 97% accuracy.  
+📝 [**AI-Powered Calendar Management System**]([https://github.com/dorisashehi/ML_cancer-diagnoses](https://github.com/dorisashehi/google_calendar)) *(Python, FastMCP)*
+- Developed a Model Context Protocol (MCP) server using Python and FastMCP to enable AI agents to interact with Google Calendar, reducing manual scheduling time by 80% through automated calendar operations. 
+- 📽️ **Video Demo:** [[[https://youtu.be/your-link-here](https://www.youtube.com/watch?v=zPeHG1xhz14&feature=youtu.be](https://www.youtube.com/embed/bjQb1xpxX7s?autoplay=1&mute=1)](https://www.youtube.com/watch?v=w3OdcZM0G0M))
 
 
 ## 🎓 Certifications
