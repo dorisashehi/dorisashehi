@@ -27,9 +27,12 @@ I’m a **software engineer** passionate about building scalable **full-stack ap
 
 ## 🔥 Featured Projects
 
-🚀 [**Google Calendar MCP Server​**](https://github.com/dorisashehi/google_calendar) *(Python, MCP, Claude, Google Calendar)*
-- Developed a Model Context Protocol (MCP) server in Python that integrates with Google Calendar to allow AI agents to
-auto-schedule, list, update, and delete meetings from natural language commands, reducing scheduling overhead by 80%.
+🚀 [**404ella.ai​**]([https://github.com/dorisashehi/google_calendar](https://github.com/dorisashehi/career)) *(React, Next.js, Python, FastAPI, PostgreSQL, Langchain, Tailwind CSS)*
+- Built a RAG-based AI career assistant using Reddit career data
+- Implemented semantic search with HuggingFace embeddings + pgvector
+📽️ **Video Demo:** [https://youtu.be/your-link-here](https://www.youtube.com/watch?v=zPeHG1xhz14&feature=youtu.be)
+
+![404ella Demo]([./assets/404ella-demo.gif](https://youtu.be/your-link-here](https://www.youtube.com/watch?v=zPeHG1xhz14&feature=youtu.be))
 
 🚀 [**Contextual Multi-Document Question Answering (GenAI)​**](https://github.com/dorisashehi/pdf-chatbot) *(Python, LangChain, Steamlit, OpenAI embeddings, gpt-3.5-turbo, and FAISS)*
 - Built a multi-document question-answering system(LangChain, Steamlit, OpenAI embeddings, gpt-3.5-turbo, and FAISS), enabling natural language queries across multiple documents with 0.9s retrieval time and 93% accuracy.
