@@ -1,14 +1,12 @@
-# Hi there 👋, I'm Dorisa Shehi!
+# 👋 Hi, I’m Dorisa Shehi
 
-I am a **Software Engineer** passionate about building high-quality applications that solve real-world problems.  
-With hands-on experience in **Python, AI/ML, GenAI, JavaScript, React.js, Node.js, Express.js**, I create scalable and efficient solutions.
-
+I’m a **software engineer** passionate about building scalable **full-stack applications**, **AI-powered systems**, and **data-driven products**.
 
 ## 🚀 About Me
 
 - 🎓 **B.A. in Computer Science** at **Hunter College, CUNY**
-- 💻 Experienced in **Python, AI/ML, GenAI, React.js, Node.js, Express.js, PostgreSQL, MySQL, MongoDB**
-- 🌐 Passionate about **AI & Software Engineering**
+- 💻 CUNY Tech Prep – Software Engineering Fellow (2025–2026)
+- 💻 Experienced in **Python, React.js, Node.js, Express.js, AI/ML, RAG systems, LLMOps, PostgreSQL, MySQL, MongoDB**
 - 🔍 Actively seeking **opportunities in SWE, AI/ML, Data Science**
 
 
