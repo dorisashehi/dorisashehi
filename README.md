@@ -14,21 +14,21 @@ I’m a **software engineer** passionate about building scalable **full-stack ap
 🚀 [**404ella.ai​**](https://github.com/dorisashehi/career) *(React, Next.js, Python, FastAPI, PostgreSQL, Langchain, Tailwind CSS)*
 - Built a RAG-based AI career assistant using Reddit career data
 - Implemented semantic search with HuggingFace embeddings + pgvector
-- 📽️ **Video Demo:** [https://youtu.be/your-link-here](https://www.youtube.com/watch?v=zPeHG1xhz14&feature=youtu.be)
+- 📽️ **Video Demo:** https://www.youtube.com/watch?v=zPeHG1xhz14
 
 🚀 [**Globe-al Research​**](https://github.com/dorisashehi/pdf-chatbot) *(React, Python, TypeScript, FastAPI, Next.js, REST API)*
 - Built a full-stack MVP visualizing global research trends across 100+ countries.
 - Integrated OpenAlex API with an interactive 3D globe.
 - Automated data collection into structured datasets for analysis.
-- 📽️ **Video Demo:** [https://youtu.be/your-link-here](https://www.youtube.com/watch?v=zPeHG1xhz14&feature=youtu.be](https://www.youtube.com/embed/bjQb1xpxX7s?autoplay=1&mute=1))
+- 📽️ **Video Demo:** https://www.youtube.com/watch?v=bjQb1xpxX7s
 
 🚀 [**AI-Powered Calendar Management System**](https://github.com/dorisashehi/ML_cancer-diagnoses) *(Python, FastMCP)*
 - Developed a Model Context Protocol (MCP) server using Python and FastMCP to enable AI agents to interact with Google Calendar, reducing manual scheduling time by 80% through automated calendar operations. 
-- 📽️ **Video Demo:** [https://youtu.be/your-link-here](https://www.youtube.com/watch?v=zPeHG1xhz14&feature=youtu.be](https://www.youtube.com/embed/bjQb1xpxX7s?autoplay=1&mute=1)](https://www.youtube.com/watch?v=w3OdcZM0G0M))
-
+- 📽️ **Video Demo:** https://www.youtube.com/watch?v=w3OdcZM0G0M
+  
 🚀 [**e-tracker**](https://github.com/dorisashehi/e-tracker) *(React.js, Node.js, MongoDB, Mongoose, Css, PlaidAPI)*
 - Developed an expense tracking platform with React/Node.js, improving user budget awareness by 60%.
-- 📽️ **Video Demo:** [https://youtu.be/your-link-here](https://www.youtube.com/watch?v=zPeHG1xhz14&feature=youtu.be](https://www.youtube.com/embed/bjQb1xpxX7s?autoplay=1&mute=1)](https://youtu.be/ZwJITG4FE08?si=vD9WD-lYuYLZ5Y2N)](https://www.youtube.com/watch?v=ZwJITG4FE08)](https://www.youtube.com/watch?v=ZwJITG4FE08))
+- 📽️ **Video Demo:** https://www.youtube.com/watch?v=ZwJITG4FE08
 
 
 ## 🛠️ Tech Stack
