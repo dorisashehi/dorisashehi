@@ -28,7 +28,7 @@ I’m a **software engineer** passionate about building scalable **full-stack ap
 
 🚀 [**e-tracker**](https://github.com/dorisashehi/e-tracker) *(React.js, Node.js, MongoDB, Mongoose, Css, PlaidAPI)*
 - Developed an expense tracking platform with React/Node.js, improving user budget awareness by 60%.
-- 📽️ **Video Demo:** [https://youtu.be/your-link-here](https://www.youtube.com/watch?v=zPeHG1xhz14&feature=youtu.be](https://www.youtube.com/embed/bjQb1xpxX7s?autoplay=1&mute=1)](https://youtu.be/ZwJITG4FE08?si=vD9WD-lYuYLZ5Y2N))
+- 📽️ **Video Demo:** [https://youtu.be/your-link-here](https://www.youtube.com/watch?v=zPeHG1xhz14&feature=youtu.be](https://www.youtube.com/embed/bjQb1xpxX7s?autoplay=1&mute=1)](https://youtu.be/ZwJITG4FE08?si=vD9WD-lYuYLZ5Y2N)](https://www.youtube.com/watch?v=ZwJITG4FE08))
 
 
 ## 🛠️ Tech Stack
